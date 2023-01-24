@@ -8,3 +8,5 @@ cars[1]= "Volvo";
 cars[2]= "BMW";
 
 console.log(cars);
+let x = myFunction(4, 3);  
+  console.log(a * b); 
